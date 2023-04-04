@@ -1,7 +1,6 @@
-query Todos {
-  todos {
+mutation insertTodo {
+  insert_todo_one(object: { content: "hello" }) {
+    content
     id
-    finished
-    contents
   }
 }
