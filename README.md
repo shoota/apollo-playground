@@ -1,19 +1,7 @@
-# react-playground
-よりうまい肉を食うぞ
+# apollo-playground
+
+Apollo client / codegen playground with hasura
 
 ## Purpose
 
-もっとうまい肉を食べれるようになる。
-
-## Scope
-
-- React
-- Typescript
-- less syntax
-- Style(CSS) design
-
-## What I need?
-
-- きれいとはなにかを考える
-- できてるものより、できないものを考える
-- 悩ましい部分に自分ルールを持つ
+Apollo client の動作検証などを行う
